@@ -6,4 +6,5 @@
 https://app.qase.io/project/G7?suite=11
 
 Тест-кейсы для тестирования регистрации, авторизации и каталога интернет магазина в системе в формате pdf для скачивания.
-https://github.com/margaritakolomytceva/docs/files/15130584/-.pdf
+(https://github.com/margaritakolomytceva/docs/files/15134530/-.pdf)
+
