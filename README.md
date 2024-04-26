@@ -4,3 +4,4 @@
 
 [Тест-кейсы для тестирования регистрации, логина и пароля](https://app.qase.io/project/G7?suite=11)
 
+[Тест-кейсы для тестирования регистрации, авторизации и каталога.pdf](https://github.com/margaritakolomytceva/docs/files/15130584/-.pdf)
